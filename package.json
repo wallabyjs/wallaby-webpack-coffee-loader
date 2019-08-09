@@ -1,0 +1,34 @@
+{
+  "name": "wallaby-webpack-coffee-loader",
+  "version": "1.0.0",
+  "description": "This project demonstrates how to configure wallaby.js with webpack built-in postprocessor and coffeescript.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wallabyjs/wallaby-webpack-coffee-loader.git"
+  },
+  "keywords": [
+    "wallaby.js",
+    "webpack",
+    "coffeescript"
+  ],
+  "author": "Wallaby.js",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wallabyjs/wallaby-webpack-coffee-loader/issues"
+  },
+  "homepage": "https://github.com/wallabyjs/wallaby-webpack-coffee-loader#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "coffee-loader": "^0.9.0",
+    "coffeescript": "^2.4.1",
+    "prettier": "^1.18.2",
+    "webpack": "^4.39.1"
+  }
+}
